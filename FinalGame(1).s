@@ -1,7 +1,3 @@
-// SUBMISSION INFO
-
-	@ Aidan Workman (arw5546)
-	
 	@ Fly the spaceship and gain points by attacking the alien saucer.
 	@ Take damage if the alien touches the ship.
 	
